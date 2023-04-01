@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "470741896515",
+    "project_id": "cam-app-dde0d",
+    "storage_bucket": "cam-app-dde0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470741896515:android:98d8aebeec06df110333f6",
+        "android_client_info": {
+          "package_name": "com.example.cam_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470741896515-2rb5e03ulskduc810ublau4lm8de2d9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cam_app",
+            "certificate_hash": "ca893415174583308ba3cfe0c449a2ed51cdc663"
+          }
+        },
+        {
+          "client_id": "470741896515-566j94i1k94g7lqf16qfpvu8jer8qbp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEzC5biwcDhaZ5Zg7NLq6mHSKF22CHvpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470741896515-566j94i1k94g7lqf16qfpvu8jer8qbp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
